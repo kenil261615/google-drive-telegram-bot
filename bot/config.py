@@ -6,8 +6,8 @@ class config:
     SUDO_USERS = " 664418878 443495584" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/trendyfilmsgdrive"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "616344717421-hqf3unqatqoqacjmkq66mqtk9fclkrd1.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "mCmy7OSElCsD5ck3fs3j-NTH"
 
 
 class BotCommands:
