@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "1708581805:AAEFo0CiM0WO31MjudWjGveBUPY9UqsJVIA"
     APP_ID = "939847"
     API_HASH = "8239960da0674fef61884844c0ba79b6"
-    DATABASE_URL = "postgres://mltmzkpsgaxxcl:0ba079a0565d5ec67e676b8994b4c4c2cc924c005bac175139941df97c7a7350@ec2-34-225-103-117.compute-1.amazonaws.com:5432/d82ep0dsvi2ed1"
+    DATABASE_URL = "postgres://hcyfjkbdlyiodh:e0f9866b0baf2cc35be210225891ae2215a8c7159c0dacd27c4a039fce327141@ec2-23-22-191-232.compute-1.amazonaws.com:5432/d3uuc82444tn13"
     SUDO_USERS = " 664418878 443495584" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/trendyfilmsgdrive"
     DOWNLOAD_DIRECTORY = "./downloads/"
