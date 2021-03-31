@@ -3,7 +3,7 @@ class config:
     APP_ID = "939847"
     API_HASH = "8239960da0674fef61884844c0ba79b6"
     DATABASE_URL = "postgres://hcyfjkbdlyiodh:e0f9866b0baf2cc35be210225891ae2215a8c7159c0dacd27c4a039fce327141@ec2-23-22-191-232.compute-1.amazonaws.com:5432/d3uuc82444tn13"
-    SUDO_USERS = " 664418878 443495584" # Sepearted by space.
+    SUDO_USERS = "664418878 443495584" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/trendyfilmsgdrive"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "616344717421-hqf3unqatqoqacjmkq66mqtk9fclkrd1.apps.googleusercontent.com"
