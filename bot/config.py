@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = "2064998464:AAEDWO7MGz3HqeO-k6Yih9wFxzcf1vLuSac"
-    APP_ID = "939847"
-    API_HASH = "8239960da0674fef61884844c0ba79b6"
-    DATABASE_URL = "postgres://ayzlkyepebavcr:367cdc0a82e3c008e435c8c63db352170f444c005e1f08f1808491f3790eb4af@ec2-54-165-184-219.compute-1.amazonaws.com:5432/d8e0777b2h339a"
-    SUDO_USERS = "664418878 443495584" # Sepearted by space.
+    BOT_TOKEN = ""
+    APP_ID = ""
+    API_HASH = ""
+    DATABASE_URL = ""
+    SUDO_USERS = "" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/trendyfilmsgdrive"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "463291668671-lfbks9ldevrm1rn5mpjkh185l4693u5k.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "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"
+    G_DRIVE_CLIENT_ID = "4632apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "GcTpa"
 
 
 class BotCommands:
